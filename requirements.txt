@@ -1,0 +1,10 @@
+pandas
+numpy
+plotly
+faicons
+matplotlib
+seaborn
+shiny
+shinywidgets
+Jinja2
+rsconnect-python
