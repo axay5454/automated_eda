@@ -2,7 +2,7 @@
 
 ## By Akshay Aloriya
 
-Welcome to **Let Shiny Do EDA For You** — a web application built with **Python Shiny** that automates **Exploratory Data Analysis (EDA)** with beautiful visualizations and interactive controls.
+Welcome to **Let Shiny Do EDA For You** — a dynamic web application built with **Python Shiny** that automates **Exploratory Data Analysis (EDA)** with beautiful visualizations and interactive controls.
 
 ---
 
